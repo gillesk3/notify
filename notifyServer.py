@@ -1,5 +1,5 @@
-from resources.notifications.notify import notify
-from resources import util
+import notify
+import util
 from urllib.parse import urljoin
 from websocket import create_connection
 import ast

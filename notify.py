@@ -1,7 +1,7 @@
 import requests
 import logging
 from urllib.parse import urljoin
-from resources import util
+import util
 import datetime
 from decimal import *
 import time

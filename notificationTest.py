@@ -1,6 +1,5 @@
-from resources.notifications.notifyServer import server as notifyServer
-# from resources.notifications.notify import notify
-from resources import util
+import notifyServer
+import util
 import threading
 import time
 
